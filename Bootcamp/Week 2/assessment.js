@@ -177,5 +177,3 @@ function transaction(cost, paid, drawer) {
     till = getChange(cost, drawer); // Take the cost away
     return till;
 }
-
-console.log(transaction(100, 1000, drawer));

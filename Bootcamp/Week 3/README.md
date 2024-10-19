@@ -6,3 +6,4 @@ These are my apprenticeship projects for week 3 of the bootcamp.
 - [Culinary chronicles](https://github.com/hinkleydev/Culinary-Chronicles)
 - [Lightbulb selectors](https://github.com/hinkleydev/Lightbulb-Selectors)
 - [Instagram clone](https://github.com/hinkleydev/Instagram-Clone)
+- [Flexible mock magic](https://github.com/csillaout/Flexible-Mock-Magic/commits/main/)
